@@ -1,0 +1,10 @@
+{
+    "name": "first-site-angular",
+    "compatibility_date": "2025-04-30", 
+    "build": {
+      "command": "ng build",
+      "cwd": "./",
+      "dir": "./dist/cloudflare" 
+    }
+  }
+  
